@@ -3,20 +3,15 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: rgb(167, 159, 150);
+    background-color:hsl(41, 59%, 41%);
     width:auto;
 }
 .header {
    height: 100px;
-   background-color: brown;
-   font-size: 35px;
+   background-color: hsl(41, 59%, 41%);
+   font-size: 30px;
    color:blue;
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
-.nav {
-    font-size: 30px;
-    color: blue;
-    text-decoration-color: blue;
 }
 .home {
     display: flex;
@@ -81,7 +76,7 @@
     height: 100px;
 }
  p {
-    color:rgb(4, 0, 255);
+    color:rgb(24, 23, 131);
     font-size: 20px;
     font-weight: 700;
     font-family: monospace;
@@ -138,11 +133,10 @@ h6 {
     font-family:sans-serif;
 }
 h5 {
-    margin-left: 20px;
-    font-size: 20px;
-    color:rgb(4, 0, 255);
+    font-size: 25px;
+    color:#2f2d9e;
     font-family:monospace;
-    /* font-style: ; */
+    font-weight: bold;
 }
 .links {
    
