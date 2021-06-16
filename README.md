@@ -36,6 +36,9 @@
   ## Tests
   N/A
   
+  ## Deployed link
+  [Deployed App](https://dereatom.github.io/MyPortfolio/)
+
   ## Github
   https://github.com/dereatom
   
