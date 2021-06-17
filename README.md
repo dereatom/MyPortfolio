@@ -25,7 +25,8 @@
   Helping me for applying for job, and tell a little abut me to the community.
 
   ## Links
-  ![Port1](https://user-images.githubusercontent.com/77940481/122149610-5716ea80-ce2a-11eb-9be6-1e1b24103797.JPG) ![Port2](https://user-images.githubusercontent.com/77940481/122149617-5b430800-ce2a-11eb-90d0-7c77d9cc719a.JPG) ![port3](https://user-images.githubusercontent.com/77940481/122149620-6007bc00-ce2a-11eb-8237-d2860ba35bbc.JPG) ![port4](https://user-images.githubusercontent.com/77940481/122149632-6433d980-ce2a-11eb-8b60-8957fd171e9c.JPG)
+  ![Port1](https://user-images.githubusercontent.com/77940481/122315722-9efc4700-cee8-11eb-8842-77d20225ea04.JPG)
+ ![Port2](https://user-images.githubusercontent.com/77940481/122149617-5b430800-ce2a-11eb-90d0-7c77d9cc719a.JPG) ![port3](https://user-images.githubusercontent.com/77940481/122149620-6007bc00-ce2a-11eb-8237-d2860ba35bbc.JPG) ![port4](https://user-images.githubusercontent.com/77940481/122149632-6433d980-ce2a-11eb-8b60-8957fd171e9c.JPG)
   
   ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
